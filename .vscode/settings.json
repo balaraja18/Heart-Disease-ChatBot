@@ -1,8 +1,0 @@
-{
-  "liveServer.settings.ignoreFiles": [
-    "**/*.db",
-    "**/*.sqlite",
-    "**/__pycache__/**",
-    "**/*.py"
-  ]
-}
